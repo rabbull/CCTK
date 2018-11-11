@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cctk.dir/main.cpp.o CMakeFiles/cctk.dir/blas_utils.cpp.o CMakeFiles/cctk.dir/traditional_fuctions.cpp.o CMakeFiles/cctk.dir/const.cpp.o CMakeFiles/cctk.dir/DOCC.cpp.o  -o cctk -Wl,-rpath,/usr/local/OpenBLAS/lib /usr/local/OpenBLAS/lib/libopenblas.so -lMagick++-7.Q16HDRI -lMagickWand-7.Q16HDRI -lMagickCore-7.Q16HDRI 
