@@ -1,3 +1,0 @@
-/home/karl/Documents/color-constancy/cctk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/karl/Documents/color-constancy/cctk/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/karl/Documents/color-constancy/cctk/cmake-build-debug/CMakeFiles/cctk.dir
